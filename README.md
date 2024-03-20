@@ -1,4 +1,4 @@
 # newproject
 this is my first repository
 <br>
-Author=suraj deethe
+Author=suraj (apana college)
